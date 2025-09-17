@@ -25,7 +25,7 @@ Python and R scripts for handling salary data, and managing employee profiles.
 ```
 ├── Employee_Payment.ipynb       # Jupyter Notebook with all tasks
 ├── Employee Profile.zip         # Zipped folder with exported employee details
-├── R_unzip_script.R             # R script to unzip and display employee data
+├── Unzip_Display_R.ipynb        # R script to unzip and display employee data
 └── README.md                    # Project documentation
 ```
 
